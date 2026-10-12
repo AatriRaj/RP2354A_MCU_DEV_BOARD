@@ -60,3 +60,6 @@ This repository currently documents the supplied schematic, not a verified or pr
 ## License
 
 No license has been specified yet. Add a license before redistributing or reusing this design.
+<img width="351" height="711" alt="Screenshot 2026-10-12 141704" src="https://github.com/user-attachments/assets/75fc82d5-a830-4396-914f-37e344ac150a" />
+
+
