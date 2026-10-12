@@ -60,6 +60,11 @@ This repository currently documents the supplied schematic, not a verified or pr
 ## License
 
 No license has been specified yet. Add a license before redistributing or reusing this design.
-<img width="351" height="711" alt="Screenshot 2026-10-12 141704" src="https://github.com/user-attachments/assets/75fc82d5-a830-4396-914f-37e344ac150a" />
+
+<img width="380" height="743" alt="Screenshot 2026-10-12 141904" src="https://github.com/user-attachments/assets/133c4ceb-3b7d-46c2-ba91-624375308cd6" />
+<img width="343" height="723" alt="Screenshot 2026-10-12 141712" src="https://github.com/user-attachments/assets/ea01648b-aaca-4e97-a618-7bca4ee3afae" />
+
+
+
 
 
